@@ -1,61 +1,67 @@
-Here is a **customized GitHub profile README.md** based on your resume content, with a focus on showcasing your skills, experiences, and projects in a visually engaging manner:
+# Hi 👋, I'm Zikai Wang  
+
+🎓 **Master's Student in Applied Data Science** at **University of Chicago**  
+🌐 **Passionate about Data Science, Machine Learning, and Business Analytics**  
 
 ---
 
-# Hi there 👋, I'm Zikai Wang
+## 🚀 About Me  
 
-🎓 **Master's Student in Applied Data Science**  
-📍 **University of Chicago** (Expected Graduation: December 2025)  
-
-Welcome to my GitHub! I am passionate about solving real-world problems through data analytics, machine learning, and innovative technologies. With a strong foundation in data science and hands-on experience across multiple industries, I thrive on turning complex datasets into actionable insights.  
-
----
-
-## 🔭 What I’m Working On:
-- **Customer Default Prediction Project:** Optimized a deep neural network model tailored to Verizon's financial priorities, achieving a projected $21M financial impact.  
-- **Movie Recommendation Systems Research:** Developed models using Embedding and Wide&Deep methods, improving prediction accuracy by 15%.  
-- **Loan Overdue Prediction:** Analyzed corporate financial data, building OLS-based models to predict delinquency rates, leading to recognition at the municipal level.  
+- 🎯 I am dedicated to turning data into actionable insights and innovative solutions.  
+- 🌱 I’m currently exploring **Generative AI** tools and **advanced machine learning** techniques.  
+- 🌐 My experiences span industries like **automotive**, **technology**, and **consulting**, where I’ve made meaningful contributions.  
+- ⚡ Fun fact: I love learning about **finance**, exploring new **data visualization tools**, and optimizing workflows with **automation**.  
 
 ---
 
-## 🌟 Highlights of My Journey:
-- **Industry Experience:**  
-  - **Tencent (Product Operations and Consulting Group):** Conducted competitive analysis and customer research, providing actionable insights for product development.  
-  - **General Motors (Portfolio Planning):** Enhanced regional sales strategies through K-Means clustering and decision trees, improving ETL processes by 20%.  
-  - **Deloitte (Risk Advisory):** Created pricing standards for real-time API products using SQL and internal databases.  
-  - **Continental Automotive Systems (Finance):** Automated inventory updates with low-code SAP tools, saving 30% in daily operations.  
+## 🛠️ Languages and Tools  
 
-- **Research Contributions:**  
-  - **MIT Machine Learning Project:** Forecasted market volatility with LSTM, ARIMA, and GARCH models, optimizing regression accuracy using meta-algorithms.  
+### Programming & Data Science  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
+![SQL](https://img.shields.io/badge/-SQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)  
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)  
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)  
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)  
 
----
-
-## 💻 Technical Skills:
-- **Programming:** Python (pandas, sklearn, matplotlib, bs4), SQL (MySQL), C++/C#, R, Java, Tableau  
-- **Data Science:** Machine Learning, Time Series Analysis, Statistical Modeling, Operational Research  
-- **Tools & Platforms:** Google Cloud, Power Automate, Excel  
-
----
-
-## 📊 My Core Values:
-- **Analytical Precision:** Building robust models and deriving meaningful insights from complex datasets.  
-- **Innovation-Driven:** Developing solutions that align with the latest trends in AI, machine learning, and data analytics.  
-- **Collaborative Growth:** Thriving in team-based environments while driving impactful results.
+### Libraries & Frameworks  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white&style=for-the-badge)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)  
+![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?logo=xgboost&logoColor=white&style=for-the-badge)  
 
 ---
 
-## 🌱 I’m currently learning:
-- Advanced generative AI tools and their applications in real-world scenarios.  
-- Best practices for scaling data analytics solutions in the cloud.  
+## 🌟 Professional Experience  
+
+### **Industry Internships**  
+![Tencent](https://img.shields.io/badge/-Tencent-071E3D?logo=tencent&logoColor=white&style=for-the-badge)  
+- Conducted data analysis and customer insights for product development.  
+
+![General Motors](https://img.shields.io/badge/-General%20Motors-0072C6?logo=generalmotors&logoColor=white&style=for-the-badge)  
+- Enhanced regional sales strategies using machine learning models.  
+
+![Deloitte](https://img.shields.io/badge/-Deloitte-008EB1?logo=deloitte&logoColor=white&style=for-the-badge)  
+- Developed pricing standards for API products, utilizing SQL.  
 
 ---
 
-## 📫 Connect With Me:
-- 📧 [Email Me](mailto:easonwang@uchicago.edu)  
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=easonwangzk&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=easonwangzk&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=easonwangzk&theme=radical)  
+
+---
+
+## 📫 How to Reach Me  
+
 - 🌐 [LinkedIn](https://linkedin.com/in/easonwang-a4aa762a9)  
+- 📧 [Email](mailto:easonwang@uchicago.edu)  
+
+Let’s collaborate and create impactful solutions together! 🚀  
 
 ---
 
-Feel free to explore my repositories and projects here. Let’s connect and create impactful solutions together! 🌟  
-
----
+Feel free to adjust the badge content, company logos, and links as needed. Let me know if you'd like additional customization!
